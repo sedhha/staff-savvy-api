@@ -5,6 +5,7 @@
     "ecmaVersion": 2018,
     "sourceType": "module"
   },
+  "plugins": ["restrict-env-variables"],
   "rules": {
     "@typescript-eslint/explicit-member-accessibility": 0,
     "@typescript-eslint/explicit-function-return-type": 0,
@@ -15,6 +16,7 @@
     "@typescript-eslint/no-explicit-any": "off",
     "@typescript-eslint/ban-types": "off",
     "@typescript-eslint/no-var-requires": "off",
-    "no-restricted-imports": ["error","axios", "node-fetch", "whatwg-fetch"]
+    "no-restricted-imports": ["error","axios", "node-fetch", "whatwg-fetch"],
+    "restrict-env-variables/no-private-env-variables": ["error","SUPERBASE_PRIVATE_SERVICE_ROLE"]
   }
 }
