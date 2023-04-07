@@ -5,7 +5,6 @@
 .env
 .env.local
 .env.development.local
-.env.test.local
 .env.production.local
 
 # Build artifacts
@@ -23,3 +22,6 @@ src/logs/*
 # OS-specific files
 .DS_Store
 Thumbs.db
+src/utils/logs/debug/*
+src/utils/logs/error/*
+

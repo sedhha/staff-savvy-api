@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\organized\\2023\\apr\\staff-savvy-apis\\src\\utils\\logs\\debug\\.b4735c6fb37da29dfd225681501b66c271ac8074-audit.json",
+    "files": [
+        {
+            "date": 1680888099949,
+            "name": "C:\\organized\\2023\\apr\\staff-savvy-apis\\src\\utils\\logs\\debug\\2023-04-07.log",
+            "hash": "09b9f634f91986f2d40577deed39eaf2b24e484704bf9c35e169be080400311e"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -6,6 +6,7 @@ const envSchema = z.object({
   PORT: z.string(),
   SUPERBASE_PROJECT_ID: z.string(),
   SUPERBASE_PUBLIC_CLIENT_ID: z.string(),
+  SUPERBASE_PRIVATE_SERVICE_ROLE: z.string(),
 });
 export const ValidateEnv = () => {
   const parsed = envSchema.safeParse(process.env);
