@@ -2,3 +2,5 @@
 2023-04-07 22:51:46 info: ::ffff:127.0.0.1 - - [Fri, 07 Apr 2023 17:21:46 GMT] "GET /open/ping HTTP/1.1" 200 108 "-" "-"
 2023-04-07 22:52:07 info: ::ffff:127.0.0.1 - - [Fri, 07 Apr 2023 17:22:07 GMT] "POST /auth/login HTTP/1.1" 200 14 "-" "-"
 2023-04-07 22:52:10 info: ::ffff:127.0.0.1 - - [Fri, 07 Apr 2023 17:22:10 GMT] "GET /open/ping HTTP/1.1" 200 108 "-" "-"
+2023-04-07 22:54:54 info: ::ffff:127.0.0.1 - - [Fri, 07 Apr 2023 17:24:54 GMT] "POST /auth/login HTTP/1.1" 200 14 "-" "-"
+2023-04-07 22:54:57 info: ::ffff:127.0.0.1 - - [Fri, 07 Apr 2023 17:24:57 GMT] "GET /open/ping HTTP/1.1" 200 108 "-" "-"
