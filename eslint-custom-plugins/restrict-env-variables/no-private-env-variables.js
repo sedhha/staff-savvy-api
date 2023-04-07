@@ -5,7 +5,7 @@ const meta = {
 };
 
 function create(context) {
-  const variablesToCheck = context.options[0] || [];
+  const variablesToCheck = context.options || [];
   return {
     Identifier(node) {
       if (node.name === 'env') {
