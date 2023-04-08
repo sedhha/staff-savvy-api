@@ -4,3 +4,10 @@
 2023-04-07 22:52:10 info: ::ffff:127.0.0.1 - - [Fri, 07 Apr 2023 17:22:10 GMT] "GET /open/ping HTTP/1.1" 200 108 "-" "-"
 2023-04-07 22:54:54 info: ::ffff:127.0.0.1 - - [Fri, 07 Apr 2023 17:24:54 GMT] "POST /auth/login HTTP/1.1" 200 14 "-" "-"
 2023-04-07 22:54:57 info: ::ffff:127.0.0.1 - - [Fri, 07 Apr 2023 17:24:57 GMT] "GET /open/ping HTTP/1.1" 200 108 "-" "-"
+2023-04-07 22:58:45 info: ::ffff:127.0.0.1 - - [Fri, 07 Apr 2023 17:28:45 GMT] "POST /auth/login HTTP/1.1" 200 14 "-" "-"
+2023-04-07 22:58:47 info: ::ffff:127.0.0.1 - - [Fri, 07 Apr 2023 17:28:47 GMT] "GET /open/ping HTTP/1.1" 200 108 "-" "-"
+2023-04-07 23:03:17 info: All Environment Variables Successfully Loaded
+2023-04-07 23:03:17 info: =================================
+2023-04-07 23:03:17 info: ======= ENV: development =======
+2023-04-07 23:03:17 info: 🚀 App listening on the port 3000
+2023-04-07 23:03:17 info: =================================
